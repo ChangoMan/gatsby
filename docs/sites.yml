@@ -1227,3 +1227,14 @@
   categories:
     - Documentation
     - Technology
+- title: Code Bushi
+  main_url: 'https://codebushi.com/'
+  url: 'https://codebushi.com/'
+  featured: false
+  description: >-
+    Web development resources, trends, & techniques to elevate your coding journey.
+  categories:
+    - Blog
+    - Web Dev
+  built_by: Hunter Chang
+  built_by_url: 'https://hunterchang.com/'
